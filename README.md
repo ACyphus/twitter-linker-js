@@ -6,13 +6,10 @@ A small JS tool to automatically link all Twitter usernames (i.e. @ACyphus) and 
 Install
 =================
 To install, simply add the JS file to your website directory and link the JS file into your HTML using 
-```html
-<script>
-``` tags.
+    <script>
+tags.
 
 Call
 =================
 Simply call the script on body load i.e. 
-```html
-<body onload="updatetags()">
-```
+    <body onload="updatetags()">
